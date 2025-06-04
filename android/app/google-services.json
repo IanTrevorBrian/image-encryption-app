@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262313184692",
+    "project_id": "x-4e7ce",
+    "storage_bucket": "x-4e7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262313184692:android:9465e2a7a281d2ed09b6e1",
+        "android_client_info": {
+          "package_name": "com.treybrian.securex_classified"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262313184692-t4f05loetv9njhj69nsvpl4uv9ifvm2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBp6sTK4OyflQn_26UJsXtjCB6XyCnq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262313184692-t4f05loetv9njhj69nsvpl4uv9ifvm2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
